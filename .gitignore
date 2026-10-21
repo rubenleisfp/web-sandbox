@@ -1,0 +1,6 @@
+# Ficheros que no queremos versionar
+node_modules/
+*.log
+*.tmp
+.vscode/
+Thumbs.db
