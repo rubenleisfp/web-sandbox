@@ -8,3 +8,11 @@ body {
 h1 {
   color: #2a5d9f;
 }
+body.oscuro {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
+
+body.oscuro h1 {
+  color: #7fb3ff;
+}
