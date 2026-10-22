@@ -19,3 +19,11 @@ body.oscuro h1 {
 ul {
     line-height: 1.6;
   }
+  
+footer {
+     margin-top: 2rem;
+     font-size: 0.8rem;
+     color: #666;
+}
+
+  
