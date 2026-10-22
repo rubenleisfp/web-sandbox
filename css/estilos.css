@@ -16,3 +16,6 @@ body.oscuro {
 body.oscuro h1 {
   color: #7fb3ff;
 }
+ul {
+    line-height: 1.6;
+  }
